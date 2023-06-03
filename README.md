@@ -1,13 +1,10 @@
 
-# Project Title
+# Movie Recommendation System
 
 We will be designing a wesite that recommends 5 movies which are similar to the movie given as input.<br>
 
 
 
-## Working Model
-
-https://heisenberg3376-movie-recommendation-system-web-rsy89z.streamlit.app/
 
 
 ## Datasets
@@ -25,7 +22,13 @@ https://heisenberg3376-movie-recommendation-system-web-rsy89z.streamlit.app/
 
 ## Libraries used
 ![Streamlit](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/image4.jpg)
-![Streamlit](https://pandas.pydata.org/static/img/pandas.svg)
+![Pandas](https://ashishthanki.github.io/static/9ff9acd6ae58a070105d75087de00329/a21d2/pandas_python_logo.avif)
+
+
+
+## Working Model
+
+https://heisenberg3376-movie-recommendation-system-web-rsy89z.streamlit.app/
 
 
 ## Support
