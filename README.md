@@ -1,7 +1,7 @@
 
 # Movie Recommendation System
 
-We will be designing a wesite that recommends 5 movies which are similar to the movie given as input.<br>
+We will be designing a webapp that recommends 5 movies which are similar to the movie given as input.<br>
 
 
 
