@@ -17,7 +17,7 @@ def recommend(movie):
     return recommended_movies
 
 st.title('Movie Recommendation System')
-
+st.write('''## select a movie and I will recommend 5 movies which are similar to it''')
 
 def decompress_pickle(file):
     data = bz2.BZ2File(file, 'rb')
